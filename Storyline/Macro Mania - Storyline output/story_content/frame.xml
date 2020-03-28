@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000100001" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000100001" font="FuturaHandwritten" controllayout="npnxnanbsnfns00000100001" colorscheme="npnxnanbnsnfns00000100001" string_table="npnxnanbnsnfns00000100001" />
+    <layout name="pxabnsnfns00000100001" font="FuturaHandwritten" controllayout="pxabnsnfns00000100001" colorscheme="npnxnanbnsnfns00000100001" string_table="npnxnanbnsnfns00000100001" />
+    <layout name="npxnabnsnfns00000100001" font="FuturaHandwritten" controllayout="npxnabnsnfns00000100001" colorscheme="npnxnanbnsnfns00000100001" string_table="npnxnanbnsnfns00000100001" />
+    <layout name="npnxnanbnsnfns00000100001" font="FuturaHandwritten" controllayout="npnxnanbnsnfns00000100001" colorscheme="npnxnanbnsnfns00000100001" string_table="npnxnanbnsnfns00000100001" />
+    <layout name="pxabnsnfns00000100000" font="FuturaHandwritten" controllayout="pxabnsnfns00000100000" colorscheme="npnxnanbnsnfns00000100001" string_table="npnxnanbnsnfns00000100001" />
+    <layout name="npxnanbnsnfns00000100001" font="FuturaHandwritten" controllayout="npxnanbnsnfns00000100001" colorscheme="npnxnanbnsnfns00000100001" string_table="npnxnanbnsnfns00000100001" />
   </layouts>
   <control_options>
     <optiongroups>
       <optiongroup name="sidebaroptions">
         <options>
-          <option name="title_enabled" value="false">
+          <option name="title_enabled" value="true">
             <options>
               <option name="title_text" value="Macro Mania" />
             </options>
@@ -26,7 +27,7 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="resources" value="true" group="linkright" />
               <listitem name="outline" value="false" group="sidebar" />
               <listitem name="glossary" value="false" group="sidebar" />
               <listitem name="transcript" value="false" group="sidebar" />
@@ -88,7 +89,7 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns00000000001">
+    <control_layout name="npnxnanbsnfns00000100001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -101,7 +102,7 @@
       <control name="submit" enabled="true" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -111,7 +112,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000000001">
+    <control_layout name="pxabnsnfns00000100001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -124,7 +125,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -134,7 +135,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns00000000001">
+    <control_layout name="npxnabnsnfns00000100001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -147,7 +148,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -157,7 +158,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns00000000001">
+    <control_layout name="npnxnanbnsnfns00000100001">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -170,7 +171,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -180,7 +181,7 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns00000000000">
+    <control_layout name="pxabnsnfns00000100000">
       <control name="volume" enabled="false" />
       <control name="seekbar" enabled="false" />
       <control name="replay" enabled="false" />
@@ -193,7 +194,7 @@
       <control name="submit" enabled="false" />
       <control name="finish" enabled="false" />
       <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
+      <control name="resources" enabled="true" />
       <control name="glossary" enabled="false" />
       <control name="transcript" enabled="false" />
       <control name="outline" enabled="false">
@@ -203,9 +204,32 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
+    <control_layout name="npxnanbnsnfns00000100001">
+      <control name="volume" enabled="false" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns00000000001">
+    <colorscheme name="npnxnanbnsnfns00000100001">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1133,7 +1157,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns00000000001">
+    <string_table name="npnxnanbnsnfns00000100001">
       <string id="acc_active">active</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to menu</string>
@@ -1183,9 +1207,9 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="FuturaHandwritten">
       <files>
-        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
         <file bold="false" italic="false" />
       </files>
     </font>
@@ -1194,50 +1218,81 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6UnnStpWOBA" displaytext="Self-Talk" expand="true" type="slide">
+        <slidelink slideid="_player.69d8qBOnPZW" displaytext="Intro" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6UnnStpWOBA.5voFcslvCGc" displaytext="Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.6dutYhoxoxk" displaytext="Question 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.6h7VIAqnjRe" displaytext="Question 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.5vyN8lEbhhP" displaytext="Question 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.6WlraSkT1lF" displaytext="Question 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.6oFuqMQ8Mrq" displaytext="Question 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.6MFLf5w3ZNn" displaytext="Question 6" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.5ccdSTgDOCu" displaytext="Question 7" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.5fKbBxe3XYX" displaytext="Question 8" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.5ZbSHrK8PXw" displaytext="Results loading" expand="false" type="slide" />
-            <slidelink slideid="_player.6UnnStpWOBA.6aEd6E9VUY7" displaytext="Results" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.68tcOMPUpH5" displaytext="Title" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.662mwKel20R" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.5c13lkh1bmJ" displaytext="Intro" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5VHM56tuQLv" displaytext="Pep talk" expand="true" type="slide">
+        <slidelink slideid="_player.5n9vOavF1ej" displaytext="Where do I even start?" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5VHM56tuQLv.5vntjxCFnFb" displaytext="Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.6CJ2BQMuizH" displaytext="Question 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.6Ydw1Ckfl9w" displaytext="Question 3" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.6qIHRxcF8yU" displaytext="Question 4" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.5h1XUSAKpIv" displaytext="Question 5" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.5VkPuFpNTpp" displaytext="Question 6" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.6k7Avwp14TN" displaytext="Question 7" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.5nAa62WlT3d" displaytext="Question 8" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.5q9BHIQOtLA" displaytext="Results loading" expand="false" type="slide" />
-            <slidelink slideid="_player.5VHM56tuQLv.6gY9lQF5FNf" displaytext="Results" expand="false" type="slide" />
+            <slidelink slideid="_player.5n9vOavF1ej.6W7xyvZ0uO6" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.5n9vOavF1ej.5xoAQO3OBLR" displaytext="Coffee Talk" expand="false" type="slide" />
+            <slidelink slideid="_player.5n9vOavF1ej.6bPLDGLM2YI" displaytext="Align" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.69d8qBOnPZW" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6cRQn0RQcps" displaytext="Pep Talk" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.69d8qBOnPZW.68tcOMPUpH5" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.6j2KuFK87ZP" displaytext="Favorite food" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.5xY5cAQddTR" displaytext="Unique" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.6Cwz4rnVLEQ" displaytext="Best friend" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.61vXMOm1CUz" displaytext="Proud" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.5eEcs2paL1E" displaytext="3 things to like" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.5m2TdqVVmAq" displaytext="Ashamed of" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.5pDyLRCTH5m" displaytext="Hard on self" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.6O3q0hMg1qd" displaytext="Results loading" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.6LrgV2Jw2CT" displaytext="Results" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5v8mOCLDQ7i" displaytext="I messed up. Now what?" expand="true" type="slide">
+        <slidelink slideid="_player.5V5gqHEp9BW" displaytext="What does this label mean?" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5v8mOCLDQ7i.5rY23wd9cRL" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5v8mOCLDQ7i.6DYUQBHiX8k" displaytext="SmartChat" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6RPFevxxd9t" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6gVORK6FBRc" displaytext="Segue to carbs" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6V947OzI99N" displaytext="How much protein should you eat?" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.5iCJuxZ3v7g" displaytext="Food highest in protein" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.5x8qfX0DPOb" displaytext="Proteins" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6WMeRPG3v34" displaytext="Protein with fat" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6VB6Hps9QFb" displaytext="Protein with carbs" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6JOy9t12KWu" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.63PKQiw5Oj2" displaytext="Let's balance this %$#@!" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.63PKQiw5Oj2.6Jq9G4Duip6" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.6BVyVIifUS2" displaytext="Drag-and-drop" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5XMNSWwRgJS" displaytext="I messed up. Now what?" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5XMNSWwRgJS.60xXIb80Nug" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.5XMNSWwRgJS.5fTB0SJZSvM" displaytext="SmartChat" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6jPts3zsEpe" displaytext="Conclusion" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6jPts3zsEpe.5XyMVCeQ5JW" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6jPts3zsEpe.5WVTxQ8ezT7" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5jCF8wS7yvs" displaytext="Template slides" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5jCF8wS7yvs.6SVDuZHHeD5" displaytext="2 responses" expand="false" type="slide" />
+            <slidelink slideid="_player.5jCF8wS7yvs.6PaW9KLuHme" displaytext="1 response" expand="false" type="slide" />
+            <slidelink slideid="_player.5jCF8wS7yvs.5j2ts1tFW7Q" displaytext="Multiple select" expand="false" type="slide" />
+            <slidelink slideid="_player.5jCF8wS7yvs.6p1g0GfNwjO" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5jCF8wS7yvs.5eQvsM4SXJC" displaytext="3 responses" expand="false" type="slide" />
+            <slidelink slideid="_player.5jCF8wS7yvs.5XMzgXtVNbZ" displaytext="4 responses" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
     </outline>
   </nav_data>
-  <resource_data description="" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='FuturaHandwritten' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="story_content/external_files/NutritionHandout.pdf" image="story_content/6fgLruVL6SR.png" title="Nutrition Labels" />
+    </resources>
+  </resource_data>
   <transcript_data />
   <glossary_data />
 </bwFrame>
