@@ -1210,7 +1210,9 @@
         </slidelink>
         <slidelink slideid="_player.6cRQn0RQcps" displaytext="Pep Talk" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6cRQn0RQcps.6j2KuFK87ZP" displaytext="Favorite food" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.6j2KuFK87ZP" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.5aORwoLQRF9" displaytext="Favorite food" expand="false" type="slide" />
+            <slidelink slideid="_player.6cRQn0RQcps.5nGPR0UxeQY" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6cRQn0RQcps.5xY5cAQddTR" displaytext="Unique" expand="false" type="slide" />
             <slidelink slideid="_player.6cRQn0RQcps.6Cwz4rnVLEQ" displaytext="Best friend" expand="false" type="slide" />
             <slidelink slideid="_player.6cRQn0RQcps.61vXMOm1CUz" displaytext="Proud" expand="false" type="slide" />
@@ -1224,10 +1226,12 @@
         <slidelink slideid="_player.5V5gqHEp9BW" displaytext="What does this label mean?" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5V5gqHEp9BW.6RPFevxxd9t" displaytext="Fats" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.5feEfN0EhD8" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.5g1N6H7mPZp" displaytext="Mini workshop" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.6EJgeIZ1rs8" displaytext="Protein" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.5o0pyVSFk7S" displaytext="Dairy" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.5lfFPOWYGEM" displaytext="Carbs" expand="false" type="slide" />
-            <slidelink slideid="_player.5V5gqHEp9BW.6gVORK6FBRc" displaytext="Segue to carbs" expand="false" type="slide" />
+            <slidelink slideid="_player.5V5gqHEp9BW.6gVORK6FBRc" displaytext="Segue" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.6V947OzI99N" displaytext="How much protein should you eat?" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.61rxERFjD3P" displaytext="How much fat should you eat?" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.6NqNFu25s0n" displaytext="Dairy high protein" expand="false" type="slide" />
@@ -1245,7 +1249,6 @@
             <slidelink slideid="_player.5V5gqHEp9BW.6WMeRPG3v34" displaytext="Black beans" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.6Xr5AZeL42q" displaytext="Protein with fat" expand="false" type="slide" />
             <slidelink slideid="_player.5V5gqHEp9BW.6VB6Hps9QFb" displaytext="Protein with carbs" expand="false" type="slide" />
-            <slidelink slideid="_player.5V5gqHEp9BW.6JOy9t12KWu" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.63PKQiw5Oj2" displaytext="Let's balance this %$#@!" expand="true" type="slide">
@@ -1281,7 +1284,10 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='FuturaHandwritten' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/NutritionHandout.pdf" image="story_content/5cmv6rqpoHO.png" title="Nutrition Labels" />
+      <resource url="story_content/external_files/CarbGuide.pdf" image="story_content/6EirciOM1CZ.png" title="Carb Guide" />
+      <resource url="story_content/external_files/FatsGuide.pdf" image="story_content/6RNmLD72dqZ.png" title="Fats Guide" />
+      <resource url="story_content/external_files/ProteinGuide.pdf" image="story_content/6A2O22vuAXE.png" title="Protein Guide" />
+      <resource url="story_content/external_files/HealthyAlternativesGuide.pdf" image="story_content/6lYFLQ5BtLX.png" title="Healthy Alternatives Guide" />
     </resources>
   </resource_data>
   <transcript_data />
