@@ -1283,10 +1283,10 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='FuturaHandwritten' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/FatsGuide.pdf" image="story_content/66rBrqr07ch.png" title="Fats Guide" />
-      <resource url="story_content/external_files/CarbGuide.pdf" image="story_content/5qt3rR3KFp5.png" title="Carbohydrates Guide" />
-      <resource url="story_content/external_files/ProteinGuide.pdf" image="story_content/6I3VHRWl4c0.png" title="Protein Guide" />
-      <resource url="story_content/external_files/HealthyAlternativesGuide.pdf" image="story_content/67kj5OKtbAk.png" title="Healthy Alternatives Guide" />
+      <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/FatsGuide.pdf" image="story_content/url.png" title="Fats Guide" />
+      <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/CarbGuide.pdf" image="story_content/url.png" title="Carbohydrates Guide" />
+      <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/ProteinGuide.pdf" image="story_content/url.png" title="Protein Guide" />
+      <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/HealthyAlternativesGuide.pdf" image="story_content/url.png" title="Healthy Alternatives Guide" />
     </resources>
   </resource_data>
   <transcript_data />
