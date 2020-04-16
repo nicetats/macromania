@@ -1287,6 +1287,7 @@
       <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/CarbGuide.pdf" image="story_content/url.png" title="Carbohydrates Guide" />
       <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/ProteinGuide.pdf" image="story_content/url.png" title="Protein Guide" />
       <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/HealthyAlternativesGuide.pdf" image="story_content/url.png" title="Healthy Alternatives Guide" />
+      <resource url="https://mzzwolf.s3.amazonaws.com/MacroMania/Resources/WhatDoesThisLabelMean.pdf" image="story_content/url.png" title="What does this label mean?" />
     </resources>
   </resource_data>
   <transcript_data />
