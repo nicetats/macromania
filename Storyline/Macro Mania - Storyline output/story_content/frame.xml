@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000100101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns10110100101" font="FuturaHandwritten" controllayout="npnxnanbsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="pxabnsnfns10110100101" font="FuturaHandwritten" controllayout="pxabnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="npxnabnsnfns10110100101" font="FuturaHandwritten" controllayout="npxnabnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="npnxnanbnsnfns10110100101" font="FuturaHandwritten" controllayout="npnxnanbnsnfns10110100101" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
-    <layout name="pxabnsnfns10110100100" font="FuturaHandwritten" controllayout="pxabnsnfns10110100100" colorscheme="pxabnsnfns10110100101" string_table="pxabnsnfns10110100101" />
+    <layout name="npnxnanbsnfns00000100101" font="FuturaHandwritten" controllayout="npnxnanbsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
+    <layout name="pxabnsnfns00000100101" font="FuturaHandwritten" controllayout="pxabnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
+    <layout name="npxnabnsnfns00000100101" font="FuturaHandwritten" controllayout="npxnabnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
+    <layout name="npnxnanbnsnfns00000100101" font="FuturaHandwritten" controllayout="npnxnanbnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
+    <layout name="pxabnsnfns00000100100" font="FuturaHandwritten" controllayout="pxabnsnfns00000100100" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
+    <layout name="npnxabnsnfns00000100101" font="FuturaHandwritten" controllayout="npnxabnsnfns00000100101" colorscheme="npnxnanbnsnfns00000100101" string_table="npnxnanbnsnfns00000100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -57,14 +58,14 @@
       <optiongroup name="controls">
         <options>
           <option name="volume" value="true" />
-          <option name="seekbar" value="true">
+          <option name="seekbar" value="false">
             <options>
               <option name="readonly" value="false" />
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
-          <option name="pauseplay" value="true" />
-          <option name="replay" value="true" />
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
           <option name="search" value="false" />
           <option name="closed_captions" value="true">
             <options>
@@ -88,11 +89,11 @@
     </optiongroups>
   </control_options>
   <control_layouts>
-    <control_layout name="npnxnanbsnfns10110100101">
+    <control_layout name="npnxnanbsnfns00000100101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
@@ -111,11 +112,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10110100101">
+    <control_layout name="pxabnsnfns00000100101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
@@ -134,11 +135,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npxnabnsnfns10110100101">
+    <control_layout name="npxnabnsnfns00000100101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="true" />
@@ -157,11 +158,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="npnxnanbnsnfns10110100101">
+    <control_layout name="npnxnanbnsnfns00000100101">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="false" />
       <control name="next" enabled="false" />
@@ -180,11 +181,11 @@
       </control>
       <control name="close_btn" enabled="true" />
     </control_layout>
-    <control_layout name="pxabnsnfns10110100100">
+    <control_layout name="pxabnsnfns00000100100">
       <control name="volume" enabled="true" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
       <control name="logo" enabled="false" />
       <control name="previous" enabled="true" />
       <control name="next" enabled="true" />
@@ -203,9 +204,32 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
+    <control_layout name="npnxabnsnfns00000100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10110100101">
+    <colorscheme name="npnxnanbnsnfns00000100101">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1133,7 +1157,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10110100101">
+    <string_table name="npnxnanbnsnfns00000100101">
       <string id="acc_active">active</string>
       <string id="check_include">Check to include</string>
       <string id="clear">Clear and return to menu</string>
@@ -1197,8 +1221,14 @@
         <slidelink slideid="_player.69d8qBOnPZW" displaytext="Intro" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.69d8qBOnPZW.68tcOMPUpH5" displaytext="Title" expand="false" type="slide" />
-            <slidelink slideid="_player.69d8qBOnPZW.662mwKel20R" displaytext="Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.69d8qBOnPZW.5c13lkh1bmJ" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.5bOZC1W7RkK" displaytext="Frankie" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.6pNrIZdcsU3" displaytext="Initial Post" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.6IHEe6AYRdO" displaytext="Join the challenge?" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.6dusr6rEM7r" displaytext="Challenge Accepted!" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.6lHprxPBSLq" displaytext="What to do" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.5ddmuaaX09j" displaytext="Welcome to the Challenge" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.5n2HtR5J7x9" displaytext="Web Search" expand="false" type="slide" />
+            <slidelink slideid="_player.69d8qBOnPZW.6UZ8tUsyphD" displaytext="Message Maria" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5n9vOavF1ej" displaytext="Where do I even start?" expand="true" type="slide">
@@ -1272,6 +1302,7 @@
           <links>
             <slidelink slideid="_player.5jCF8wS7yvs.6SVDuZHHeD5" displaytext="2 responses" expand="false" type="slide" />
             <slidelink slideid="_player.5jCF8wS7yvs.6PaW9KLuHme" displaytext="1 response" expand="false" type="slide" />
+            <slidelink slideid="_player.5jCF8wS7yvs.62v5EeT6QmX" displaytext="Challenge?" expand="false" type="slide" />
             <slidelink slideid="_player.5jCF8wS7yvs.5j2ts1tFW7Q" displaytext="Multiple select" expand="false" type="slide" />
             <slidelink slideid="_player.5jCF8wS7yvs.6p1g0GfNwjO" displaytext="Multiple choice" expand="false" type="slide" />
             <slidelink slideid="_player.5jCF8wS7yvs.5eQvsM4SXJC" displaytext="3 responses" expand="false" type="slide" />
@@ -1288,6 +1319,7 @@
       <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/ProteinGuide.pdf" image="story_content/url.png" title="Protein Guide" />
       <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/HealthyAlternativesGuide.pdf" image="story_content/url.png" title="Healthy Alternatives Guide" />
       <resource url="https://mzzwolf.s3.amazonaws.com/MacroMania/Resources/WhatDoesThisLabelMean.pdf" image="story_content/url.png" title="What does this label mean?" />
+      <resource url="https://mzzwolf.s3.amazonaws.com/MacroMania/Resources/WeeklyMealPlanner.pdf" image="story_content/url.png" title="Weekly Meal Planner" />
     </resources>
   </resource_data>
   <transcript_data />
