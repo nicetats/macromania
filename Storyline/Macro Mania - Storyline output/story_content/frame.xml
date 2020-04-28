@@ -1251,7 +1251,14 @@
         </slidelink>
         <slidelink slideid="_player.63PKQiw5Oj2" displaytext="Let's balance this %$#@!" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.63PKQiw5Oj2.6Jq9G4Duip6" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.5lJgRFRFfbf" displaytext="Breakfast" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.5beYiNo1DfK" displaytext="Intro" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.69fBEQjOpMf" displaytext="Lunch" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.5b4BWhHHb29" displaytext="Dinner" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.5zWTuPEyAkE" displaytext="Snack 1" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.6Dovr8Mrvo6" displaytext="Snack 2" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.5dRgb52tAsX" displaytext="Results" expand="false" type="slide" />
+            <slidelink slideid="_player.63PKQiw5Oj2.6lqajdCYpVN" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5XMNSWwRgJS" displaytext="I messed up. Now what?" expand="true" type="slide">
@@ -1268,12 +1275,6 @@
             <slidelink slideid="_player.6jPts3zsEpe.6BW9VP3Aw7F" displaytext="Set a goal" expand="false" type="slide" />
             <slidelink slideid="_player.6jPts3zsEpe.6hD4qFga70T" displaytext="Thanks" expand="false" type="slide" />
             <slidelink slideid="_player.6jPts3zsEpe.6nBuFbhaqUY" displaytext="Outro" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5n3ptK5i3Ie" displaytext="Untitled Scene" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5n3ptK5i3Ie.6nnzYKIJgXb" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5n3ptK5i3Ie.5pT5MPQj3u8" displaytext="How does your body use macronutrients?" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
