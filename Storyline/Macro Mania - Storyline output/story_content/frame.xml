@@ -1278,6 +1278,11 @@
             <slidelink slideid="_player.6jPts3zsEpe.6nBuFbhaqUY" displaytext="Outro" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.5YqKaF4kvt1" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5YqKaF4kvt1.5yv1y4gNwJ6" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
@@ -1289,6 +1294,7 @@
       <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/HealthyAlternativesGuide.pdf" image="story_content/url.png" title="Healthy Alternatives Guide" />
       <resource url="https://mzzwolf.s3.amazonaws.com/MacroMania/Resources/WhatDoesThisLabelMean.pdf" image="story_content/url.png" title="What does this label mean?" />
       <resource url="https://mzzwolf.s3.amazonaws.com/MacroMania/Resources/WeeklyMealPlanner.pdf" image="story_content/url.png" title="Weekly Meal Planner" />
+      <resource url="http://mzzwolf.s3.amazonaws.com/MacroMania/Resources/WhatAreMacrosTranscript-VideoDescription.pdf" image="story_content/url.png" title="What are macros? Video Transcript and Description" />
     </resources>
   </resource_data>
   <transcript_data />
