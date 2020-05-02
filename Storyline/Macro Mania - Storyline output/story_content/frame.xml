@@ -6,6 +6,7 @@
     <layout name="npxnabnsnfns10110100101" font="Articulate" controllayout="npxnabnsnfns10110100101" colorscheme="npnxnanbnsnfns10110100101" string_table="npnxnanbnsnfns10110100101" />
     <layout name="npnxnanbnsnfns10110100101" font="Articulate" controllayout="npnxnanbnsnfns10110100101" colorscheme="npnxnanbnsnfns10110100101" string_table="npnxnanbnsnfns10110100101" />
     <layout name="pxabnsnfns10110100100" font="Articulate" controllayout="pxabnsnfns10110100100" colorscheme="npnxnanbnsnfns10110100101" string_table="npnxnanbnsnfns10110100101" />
+    <layout name="npxnanbnsnfns10110100101" font="Articulate" controllayout="npxnanbnsnfns10110100101" colorscheme="npnxnanbnsnfns10110100101" string_table="npnxnanbnsnfns10110100101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -202,6 +203,29 @@
         </controls>
       </control>
       <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npxnanbnsnfns10110100101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
     </control_layout>
   </control_layouts>
   <colorschemes>
@@ -1264,7 +1288,6 @@
         </slidelink>
         <slidelink slideid="_player.5XMNSWwRgJS" displaytext="I messed up. Now what?" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5XMNSWwRgJS.60xXIb80Nug" displaytext="Intro" expand="false" type="slide" />
             <slidelink slideid="_player.5XMNSWwRgJS.5fTB0SJZSvM" displaytext="SmartChat" expand="false" type="slide" />
           </links>
         </slidelink>
