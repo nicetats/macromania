@@ -1202,6 +1202,11 @@
         <file bold="false" italic="false" />
       </files>
     </font>
+    <font name="Open Sans">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
   </fonts>
   <sounds enabled="true" />
   <nav_data>
